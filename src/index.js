@@ -10,6 +10,6 @@ module.exports = function check(str, bracketsConfig) {
         }  
       }
       if (err.length == 0) return true; 
-      else return false; //Васян 3.14дверь
+      else return false; 
   }
 }
